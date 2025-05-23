@@ -15,5 +15,5 @@
 homepage: "https://paved.com"
 documentation: "https://www.paved.com/help/en/articles/11390644-use-the-paved-conversion-pixel-with-google-tag-manager"
 versions:
-  - sha: 34711af05375112940e3562458c972e5252a790b
+  - sha: 9e16e39684934d691764dd10033ccd58e09459ff
     changeNotes: adding tpl file
